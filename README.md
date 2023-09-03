@@ -5,6 +5,6 @@ My objectives for this assignment are as follows:
 Create a Repository,
 Create a Branch,
 Make and Commit Changes,
-Open and Merge a Pull Request.
+and Open and Merge a Pull Request.
 
 I initially signed up for a GitHub account using my email address and password.  I am including a screenshot below of me signing into my GitHub account.  
